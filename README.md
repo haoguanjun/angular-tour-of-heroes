@@ -4,7 +4,7 @@ Super simple Angular app with 1 module and 2 routes. This is a minor variation o
 
 ## Live Demo
 点击这里查看在线演示：
-[https://haoguanjun.github.io/angular-tour-of-heroes/](https://haoguanjun.github.io/angular-tour-of-heroes/){:target="_blank"}
+<a href="https://haoguanjun.github.io/angular-tour-of-heroes/" target="_blank">https://haoguanjun.github.io/angular-tour-of-heroes/</a>
 
 ## Get the Code
 ```
